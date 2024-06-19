@@ -1,10 +1,10 @@
-# spiderProxy
+# spiderProxy [![Page Views Count](https://badges.toozhao.com/badges/01J0Q94FXDH0TJK36V9CQNM96K/orange.svg)](https://badges.toozhao.com/stats/01J0Q94FXDH0TJK36V9CQNM96K "Get your own page views count badge on badges.toozhao.com")
 
 自用配置 不定时更新
 
 更新请关注 tg 频道：https://t.me/+dF4269WMvS81OWZl
 
-[![Page Views Count](https://badges.toozhao.com/badges/01J0Q94FXDH0TJK36V9CQNM96K/orange.svg)](https://badges.toozhao.com/stats/01J0Q94FXDH0TJK36V9CQNM96K "Get your own page views count badge on badges.toozhao.com")
+
 ## 特别声明:
 
 - 本仓库发布的项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
