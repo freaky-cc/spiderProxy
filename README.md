@@ -3,7 +3,7 @@
 
 -->
 <p align="center">
-    <img src="https://badges.toozhao.com/badges/01J0Q94FXDH0TJK36V9CQNM96K/orange.svg" alt="downloads" />
+    <img src="https://badges.toozhao.com/badges/01J0Q94FXDH0TJK36V9CQNM96K/orange.svg" draggable="false" />
 </p>
 自用配置 不定时更新
 
