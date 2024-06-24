@@ -4,9 +4,6 @@
     <img src="https://badges.toozhao.com/badges/01J0Q94FXDH0TJK36V9CQNM96K/orange.svg" draggable="false" />
 </p>
 -->
-<p align="center">
-    <img src="https://badges.toozhao.com/badges/01J0Q94FXDH0TJK36V9CQNM96K/orange.svg" draggable="false" />
-</p>
 自用配置 不定时更新
 
 更新请关注 tg 频道：https://t.me/+dF4269WMvS81OWZl
